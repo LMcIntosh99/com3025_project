@@ -1,5 +1,8 @@
 # ECG Dataset Preprocessing and Modeling
 
+This repository contains code for preprocessing and modeling ECG signals using both supervised and self-supervised learning techniques.  
+It was developed as part of a group university project for the Advanced AI module and is no longer actively maintained.
+
 ## Data Requirements
 
 To run the preprocessing, place the following CSV files from [this Kaggle dataset](https://www.kaggle.com/shayanfazeli/heartbeat) into the `/data` directory:
