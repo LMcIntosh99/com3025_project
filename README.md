@@ -1,7 +1,6 @@
 # ECG Dataset Preprocessing and Modeling
 
-This repository contains code for preprocessing and modeling ECG signals using both supervised and self-supervised learning techniques.  
-It was developed as part of a group university project for the Advanced AI module and is no longer actively maintained.
+This repository contains code for preprocessing and modeling ECG signals using both supervised and self-supervised learning techniques. It was developed as part of a group university project for the Advanced AI module and is no longer actively maintained.
 
 ## Data Requirements
 
